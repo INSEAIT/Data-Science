@@ -10,3 +10,6 @@ A data science introduction course made by [INSEA IT](https://inseait.com) on **
 ### Subject : Introduction to machine learning and deep learning
 
 Following code is in the folders for each part of the course.
+- Data analysis
+- Data extraction
+- Predictions
