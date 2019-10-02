@@ -13,3 +13,4 @@ Following code is in the folders for each part of the course.
 - Data analysis
 - Data extraction
 - Predictions
+- Overview on machine learning and deep learning 
